@@ -5,10 +5,10 @@
   "author": "MeshCentral Contributors",
   "description": "Adds a configurable button to the device view that launches noVNC sessions with custom parameters.",
   "hasAdminPanel": false,
-  "homepage": "https://github.com/wdlut/plugins/tree/main/wdVncPlugin",
-  "changelogUrl": "https://github.com/wdlut/plugins/blob/main/wdVncPlugin/CHANGELOG.md",
-  "configUrl": "https://raw.githubusercontent.com/wdlut/plugins/main/wdVncPlugin/config.json",
-  "downloadUrl": "https://github.com/wdlut/plugins/archive/refs/heads/main.zip",
+  "homepage": "https://github.com/wdlut/plugins/tree/master/wdVncPlugin",
+  "changelogUrl": "https://github.com/wdlut/plugins/blob/master/wdVncPlugin/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/wdlut/plugins/master/wdVncPlugin/config.json",
+  "downloadUrl": "https://github.com/wdlut/plugins/archive/refs/heads/master.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/wdlut/plugins.git"
