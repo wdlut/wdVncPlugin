@@ -11,7 +11,7 @@
   "downloadUrl": "https://github.com/wdlut/wdVncPlugin/archive/master.zip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wdlut/plugins.git"
+    "url": "https://github.com/wdlut/wdVncPlugin.git"
   },
   "meshCentralCompat": ">=1.1.0",
   "settings": {
